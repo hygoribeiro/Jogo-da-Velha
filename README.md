@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse Projeto e Para Treinar JavaScript um Jogo Simples Mais que Ajuda Bastante o Treinamento da Linguagem.
 
-- [Acesse o projeto finalizado, online](hygoribeiro.github.io/Jogo-da-Velha/)
+- [Acesse o projeto finalizado, online](https://hygoribeiro.github.io/Jogo-da-Velha/)
 
 
 ## :memo: Licença
